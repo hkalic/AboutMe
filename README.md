@@ -17,4 +17,4 @@ My projects as a software developer **[repos](https://github.com/hkalic?tab=repo
 	* **[Video2K5 - Video rental store chain (ERP)](https://github.com/hkalic/Video2K5)**
 	* **[F6 - All in one "shortcut" to the ERP system](https://github.com/hkalic/F6)**
 	* **[Naljepnice - Sticky labels, print utility](https://github.com/hkalic/Naljepnice)**
-	* **there's more**
+	* *there's more*
