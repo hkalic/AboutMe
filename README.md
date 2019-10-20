@@ -14,5 +14,6 @@ My projects as a software developer **[repos](https://github.com/hkalic?tab=repo
 	* **[WLC - Weightlifting Championship](https://github.com/hkalic/WLC)**
 	* **[ZSR - Ratarske Kulture (agricultural sorts)](https://github.com/hkalic/ZSR-RatarskeKulture)**
 	* **[ZSR - Vocarstvo (Fruit sorts management)](https://github.com/hkalic/ZSR-Vocarstvo)**
+	* **[Video2K5 - Video rental store chain (ERP)](https://github.com/hkalic/Video2K5)**
 	* **[F6 - All in one "shortcut" to the ERP system](https://github.com/hkalic/F6)**
 	* **there's more**
