@@ -9,7 +9,7 @@ My presentations from various meetups/conference and current **[CV Eng](https://
 *	KulenDayz:
 	* **[Meteor JS](https://github.com/hkalic/presentation/blob/master/Meteor-KulenDayz.2015.pptx)** (2015)
 
-My projects as a software developer **[repos](https://github.com/hkalic?tab=repositories)** (BC - EOF)
+My projects as a software developer **[repos](https://github.com/hkalic?tab=repositories)**
 *	Delphi:
 	* **[WLC - Weightlifting Championship](https://github.com/hkalic/WLC)**
 	* **[ZSR - Ratarske Kulture (agricultural sorts)](https://github.com/hkalic/ZSR-RatarskeKulture)**
