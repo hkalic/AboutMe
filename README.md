@@ -1,5 +1,5 @@
 
-My presentations from various meetups/conference and current **[CV Eng](https://github.com/hkalic/AboutMe/blob/master/cv/Hrvoje%20Kalic%20-%20CV%20(EN)%202019.doc?raw=true)** (**[PDF](https://github.com/hkalic/AboutMe/blob/master/cv/Hrvoje%20Kalic%20-%20CV%20(EN)%202022.pdf?raw=true)**)
+My presentations from various meetups/conference and current **[CV Eng](https://github.com/hkalic/AboutMe/blob/master/cv/Hrvoje%20Kalic%20-%20CV%20(EN)%202023.doc?raw=true)** (**[PDF](https://github.com/hkalic/AboutMe/blob/master/cv/Hrvoje%20Kalic%20-%20CV%20(EN)%202023.pdf?raw=true)**)
 
 *	Microsoft Community:
 	* **[XNA Game Studio](https://github.com/hkalic/presentation/blob/master/XNA%20Framework.ppt)** (2008)
