@@ -17,4 +17,5 @@ My projects as a software developer (**[repos](https://github.com/hkalic?tab=rep
 	* **[Video2K5 - Video rental store chain (ERP)](https://github.com/hkalic/Video2K5)**
 	* **[F6 - All in one "shortcut" to the ERP system](https://github.com/hkalic/F6)**
 	* **[Naljepnice - Sticky labels, print utility](https://github.com/hkalic/Naljepnice)**
+	* **[ZPL2FTP - Quick test for edit/send labels to Zebra printer](https://github.com/hkalic/ZPL2FTP)**
 	* there's more
